@@ -107,5 +107,28 @@ Figure	Tradeshow System Overall	Supplier Subsystem
 (n) Screen Capture		✅
 
 
-sfdsf 
-dsadas
+Categorizing each figure from Lecture 01 into one of two groups:
+
+Figures showing the Tradeshow System overall
+Problem description◼System capabilities◼Business benefitsFigure 1-08
+
+Figures showing components specific to the Supplier Subsystem
+
+
+a. System Vision Document (Figure 1-8) 
+It comprises of the Problem description,System capabilities and Business benefits. It clearly belongs to the 
+Tradeshow System Overall. 
+
+b. Work Breakdown Structure (Figure 1-9) 
+c. List of Use Cases (Figure 1-11) 
+d. List of Domain Classes (Figure 1-12) 
+e. Domain Class Diagram (Figure 1-13) 
+f. Use Case Diagram (Figure 1-14) 
+g. Activity Diagram (Figure 1-15) 
+h. Initial Screen Layout (Figure 1-16) 
+i. Database Design (Figure 1-17) 
+j. Component Diagram (Figure 1-18) 
+k. Design Class Diagram (Figure 1-19) 
+l. Software Architecture (Figure 1-20) 
+m.  Code for SupplierView Class (Figure 1-21) 
+n. Screen Capture (Figure 1-23)
