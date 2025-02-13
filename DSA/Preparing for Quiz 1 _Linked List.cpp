@@ -74,5 +74,37 @@ int searchone(link h,int a){
 }
 
 /*
+find the node value same as s and delete the node
+asume h is not empty 
+all values in linkedlist are distinct
+link deleteone(link h,int s)
+if linkedlist becomes empty , then function returns null,else
+returns same
 
+this is a fall2024 midterm question
 */
+
+link deleteone(link h, int n){
+    if(h->item==n && h->next==NULL)return NULL;
+    if(h->item!=n && h->next==NULL)return h;
+    link t=h;
+    while (t->!=0){
+        if(t->next->item==n){
+            if(h->next->next==0) {
+                h->next=NULL;
+                t=t->next;
+                delete t;
+                return h;
+            }                       //this is something u need to cautious
+            else{
+            h->next=h->next->next;
+            t=t->next;
+            delete t; // can i delete t->next ??
+            return h;
+            }
+        }
+        t=t->next;
+        h=h->next;
+    }
+    return h;
+}
