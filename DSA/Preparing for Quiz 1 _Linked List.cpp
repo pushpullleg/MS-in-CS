@@ -150,10 +150,9 @@ link reverseList(link h){
             t1=t1->next;
             a++;
         }
-        ans1->item=t1;
-        t1=h;
+        ans1->item=t1->item;
         ans->next=ans1;
-        ans=ans->next;
+        ans->next=ans;
     }
     return ans;
 }
