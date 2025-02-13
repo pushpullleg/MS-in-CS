@@ -59,3 +59,20 @@ handling empty linked list
 Smart way is two different traversal speed 
 */
 
+/*
+Search an element 
+*/
+
+int searchone(link h,int a){
+
+    link t=h;
+    while (t!=0){
+        if(t->item==a) return 1;
+        t=t->next;
+    }
+    return 0;
+}
+
+/*
+
+*/
