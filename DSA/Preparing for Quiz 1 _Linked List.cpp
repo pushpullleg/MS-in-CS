@@ -88,7 +88,7 @@ link deleteone(link h, int n){
     if(h->item==n && h->next==NULL)return NULL;
     if(h->item!=n && h->next==NULL)return h;
     link t=h;
-    while (t->!=0){
+    while (t!=0){
         if(t->next->item==n){
             if(h->next->next==0) {
                 h->next=NULL;
@@ -99,7 +99,7 @@ link deleteone(link h, int n){
             else{
             h->next=h->next->next;
             t=t->next;
-            delete t; // can i delete t->next ??
+            delete t; // can i delete t->next instead of taking t ??
             return h;
             }
         }
@@ -107,4 +107,31 @@ link deleteone(link h, int n){
         h=h->next;
     }
     return h;
+}
+
+/*
+This one i completely missed
+  // If the head node itself holds the key to be deleted and there are more nodes
+    if (h->item == n) {
+        link temp = h;
+        h = h->next; // Change head
+        delete temp; // Free old head
+        return h;
+    }
+*/
+
+/*
+Write a function link reverseList(link h) that reverses a singly linked list. 
+The function should return the new head of the reversed list. 
+Assume that the linked list is not empty.
+
+Example:
+
+Input: 1 -> 2 -> 3 -> 4 -> 5
+Output: 5 -> 4 -> 3 -> 2 -> 1
+*/
+
+link reversal(link h){
+
+    
 }
