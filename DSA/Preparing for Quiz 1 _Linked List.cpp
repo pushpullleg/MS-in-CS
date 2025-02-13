@@ -131,7 +131,36 @@ Input: 1 -> 2 -> 3 -> 4 -> 5
 Output: 5 -> 4 -> 3 -> 2 -> 1
 */
 
-link reversal(link h){
+link reverseList(link h){
+    link t=h;
+    link t1=h;
+    link ans=NULL;
+    ans->item=0;
+    link ans1=NULL;
+    ans1->item=0;
+    int count=0;
+    while (t!=0){
+        count++;
+        t=t->next;
+    }
 
-    
+    for(int i=count;i>=1;i--){
+        int a=1;
+        while(a!=i){ 
+            t1=t1->next;
+            a++;
+        }
+        ans1->item=t1;
+        t1=h;
+        ans->next=ans1;
+        ans=ans->next;
+    }
+    return ans;
 }
+
+/*
+ans and ans1 are initialized as NULL, 
+but you are trying to access ans1->item 
+and ans->next, which causes segmentation faults.
+*/
+
