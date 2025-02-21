@@ -9,18 +9,19 @@ linkedlist in sorting
 void diff(link l1,link l2){
     link t1=l1;
     link t2=l2;
-    if(t2==0){
-        while (t1!=0){
-            cout<<t1->item;
-            t=t->next;
+    if(t2==0){              //this is a edge case that i missed 
+        while (t1!=0){            
+            cout<<t1->item;<<" ";
+            t1=t1->next;
         }
+        return;
     }
     while(t1!=0 && t2!=0){
         if(t1->item==t2->item){
             t1=t1->next;
             t2=t2->next;
         }
-        if(t1->item<t2->item){
+        else if(t1->item < t2->item){
             t1=t1->next;
         }else{
             cout<<t1->item;
@@ -28,5 +29,9 @@ void diff(link l1,link l2){
             t2=t2->next;
         }
     }
+    while (t1!=0){ //this case i missed 
+        cout<< t1->item << " ";
+        t1=t1->next;
 
+    } 
 }
