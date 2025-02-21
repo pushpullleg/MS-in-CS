@@ -7,7 +7,7 @@ link reducetoone(link h){
     while(t->next!=0){
         temp=t;
         t=t->next;
-        delete t;
+        delete temp; //did i by mistake delete t in mid term ?
     }
     return t;
 }
