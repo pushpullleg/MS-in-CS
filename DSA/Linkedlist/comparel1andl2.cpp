@@ -35,3 +35,7 @@ void diff(link l1,link l2){
 
     } 
 }
+
+/*learning these two functions were missed */ 
+// Output remaining items in t1
+// If l2 is empty, output all items in l1
