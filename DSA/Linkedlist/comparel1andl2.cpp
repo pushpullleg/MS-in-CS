@@ -9,6 +9,12 @@ linkedlist in sorting
 void diff(link l1,link l2){
     link t1=l1;
     link t2=l2;
+    if(t2==0){
+        while (t1!=0){
+            cout<<t1->item;
+            t=t->next;
+        }
+    }
     while(t1!=0 && t2!=0){
         if(t1->item==t2->item){
             t1=t1->next;
@@ -22,4 +28,5 @@ void diff(link l1,link l2){
             t2=t2->next;
         }
     }
+
 }
