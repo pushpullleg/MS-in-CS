@@ -1,4 +1,4 @@
-Introduction 
+Introduction1 
 
 IT - combination of Hardware, software products and services that the company use to manage access, communicate and share 
 information
