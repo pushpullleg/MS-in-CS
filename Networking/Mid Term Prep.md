@@ -150,5 +150,7 @@ Latency,elasticity,efficiency
 Can Tolerate some data loss, UDP has elasticity
 
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/k2/4ym6nvq14tl_bnrkhhxz2gk40000gn/T/TemporaryItems/NSIRD_screencaptureui_RYOPrr/Screenshot%202025-03-02%20at%201.24.23%E2%80%AFPM.png?version%3D1740943470468)
+![alt text][Comparison Table]
 
+
+[Comparison Table]: https://file%2B.vscode-resource.vscode-cdn.net/var/folders/k2/4ym6nvq14tl_bnrkhhxz2gk40000gn/T/TemporaryItems/NSIRD_screencaptureui_RYOPrr/Screenshot%202025-03-02%20at%201.24.23%E2%80%AFPM.png?version%3D1740943470468
