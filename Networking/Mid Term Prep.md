@@ -154,3 +154,38 @@ Can Tolerate some data loss, UDP has elasticity
 
 
 [Comparison Table]: https://file%2B.vscode-resource.vscode-cdn.net/var/folders/k2/4ym6nvq14tl_bnrkhhxz2gk40000gn/T/TemporaryItems/NSIRD_screencaptureui_RYOPrr/Screenshot%202025-03-02%20at%201.24.23%E2%80%AFPM.png?version%3D1740943470468
+
+
+## HTTP Request Type 
+
+Belongs to the application layer.
+
+Persistent - One Connection = Multiple Requests
+TCP is connection , whereas HTTP is Requests
+
+Non Persistent - One Request = One Connection
+
+🚀 Quick Comparison: Persistent vs. Non-Persistent
+Feature     	Non-Persistent	                         Persistent
+Connection	    New TCP connection for each request 	 One TCP connection for multiple requests
+Speed	        Slower (high latency)	                 Faster (low latency)
+Overhead	    High (many connections)	                 Low (fewer connections)
+Usage	        Older HTTP (1.0), simple websites	     Modern HTTP (1.1, 2), dynamic websites
+
+
+## Pieplining
+
+Optimisation technique for persistent
+
+multiple HTTP requests to be sent over the same TCP connection without waiting for the corresponding responses 
+
+Disadv: 
+Head of line blocking -> where a delay in processing an earlier request can delay all subsequent responses, even if those requests are ready
+
+Chapter - 2
+
+## Flow Control 
+
+Flow control in TCP is a mechanism that prevents the sender from overwhelming the receiver with too much data at once.
+
+How ? Sliding window protocol
