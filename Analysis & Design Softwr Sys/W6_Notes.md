@@ -89,7 +89,7 @@ the boundary between the computerized portion of the application and the users w
 
 Use case Diagram 
 
-![Use Case Diagram](screenshot1.png)
+![[Use Case Diagram]](screenshot1.png)
 
 
 
