@@ -27,4 +27,4 @@ An analyst’s most valuable skill is the ability to listen
 
 ## Information system Key components
 
-![5_Key](Info_System_Key.png)
+![5_Key](images/Info_System_Key.png)
