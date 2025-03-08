@@ -47,6 +47,9 @@ Use Case- Short description with more detail , User flow or interaction , UML
 
 # Event Decomposition Technique 
 
+First was done for real time systems
+
+
 ## Type of Events
 
 1. External Events
