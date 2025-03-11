@@ -28,3 +28,18 @@ An analyst’s most valuable skill is the ability to listen
 ## Information system Key components
 
 ![5_Key](images/Info_System_Key.png)
+
+## Different types of Application Softwares
+
+- Horizontal system ->Designed for a broad range of industries and users.
+- Vertical system-> Developed for a specific industry or business sector.
+- Legacy system-> Older software that is still in use but may be outdated or incompatible with modern systems.
+
+# What is SDLC 
+In software engineering, the framework that identifies all the activities required to research, build, deploy, and often maintain an information system is called as Software development life cycle (SDLC)
+
+# Ways to Implement the SDLC 
+
+- Structured Analysis / Waterfall
+- Object Oriented Analysis
+- Agile / Adaptive / Integrative 
