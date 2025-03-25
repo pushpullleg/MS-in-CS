@@ -46,3 +46,37 @@ make sure rdd is small enough berfore collect function
 
 15:10 -> 15:14
 
+# Pyspark
+
+Broadcast variables 
+
+send read only variables to the workers 
+read only look up tables, consider using broadcasting variables
+
+Accumulator
+
+Transformation and action are the function in the apache spark 
+
+map ()
+
+action triggers all the transformation 
+
+action is a way of driver to get the results back.
+
+flatmap is similar to map , it reduces teh hierarchy 
+
+
+Two way of creating RDD
+- from worker node 
+
+Partition adn no.of workers , 
+
+About slides
+
+Group by function be careful, as it gives more load to the worker
+
+# ApacheSpark
+
+it is similar to panda and apache spark dataframe
+
+
