@@ -5,21 +5,21 @@
     A. Security  
     B. Reliability  
     C. Encryption  
-    *D. **Cost Optimization***
+    D. Cost Optimization
 2. The AWS Cloud provides elasticity. What does elasticity mean?  
     A. Scaling resources manually  
-    *B. Automatically adjusting capacity to demand*  
+    B. Automatically adjusting capacity to demand*  
     C. Unlimited data storage  
     D. Static resource allocation
 3. Which of these is an example of Infrastructure as a Service (IaaS)?  
     A. AWS Lambda  
     B. Amazon EC2  
-    *C. Amazon S3*  
+    C. Amazon S3
     D. AWS CloudFormation
 4. Which deployment model includes services provided over the public internet and shared across organizations?  
     A. Private Cloud  
     B. On-Premises  
-    *C. Public Cloud*  
+    C. Public Cloud
     D. Edge Cloud
 5. What does the AWS Responsibility Model state about patching the guest operating system on EC2?  
     A. It’s the customer’s responsibility  
@@ -28,52 +28,52 @@
     D. It’s not required
 6. Regions in AWS are:  
     A. Physically isolated data centers  
-    B. ***Collections of availability zones***  
+    B. Collections of availability zones
     C. Single data centers  
     D. Edge locations
 7. Which AWS service helps you estimate cost savings when committing to a term?  
-    A. ***AWS Budgets***  
+    A. AWS Budgets
     B. AWS Cost Explorer  
     C. AWS Pricing Calculator  
     D. AWS Savings Plans
 8. What attribute of the cloud shifts capital expense (CapEx) to operational expense (OpEx)?  
     A. Elasticity  
-    B. ***On-demand pricing***  
+    B. On-demand pricing
     C. Global infrastructure  
     D. High availability
 9. Which statement best describes the AWS Cloud?  
     A. A physical hardware platform  
     B. On-premises data center  
-    C. ***A collection of remote servers accessed via the internet***  
+    C. A collection of remote servers accessed via the internet
     D. A private network
 10. AWS edge locations are used by which service?  
     A. Amazon RDS  
     B. Amazon CloudFront  
-    C. ***AWS IAM***  
+    C. AWS IAM
     D. AWS Config
 11. One benefit of the cloud is pay-as-you-go pricing. Which scenario illustrates this?  
     A. Paying a large upfront fee  
-    B. ***Paying hourly only for instances you run***  
+    B. Paying hourly only for instances you run
     C. Pre-purchasing compute capacity  
     D. Reserving resources for a year
 12. Which service helps you evaluate your architecture against best practices?  
     A. AWS Trusted Advisor  
     B. AWS CloudTrail  
-    C. ***AWS Config***  
+    C. AWS Config
     D. AWS IAM
 13. Which is NOT part of the shared responsibility model?  
     A. Security of the cloud  
     B. Security in the cloud  
     C. Customer data  
-    D. ***Physical data center security***
+    D. Physical data center security
 14. To meet a global audience with low latency, you should deploy to:  
     A. One Region  
-    ***B. Multiple Availability Zones in one Region***  
+    B. Multiple Availability Zones in one Region
     C. Multiple Regions  
     D. A single edge location
 15. What does “loT” stand for?  
     A. Layers of Technology  
-    ***B. Internet of Things***  
+    B. Internet of Things
     C. Instances on T-class  
     D. Infrastructure on Demand
 16. Which AWS service provides a virtual private network?  
