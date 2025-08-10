@@ -1,0 +1,401 @@
+{
+  "main": {
+    "id": "2ec59b2e82f652fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "704cad64b5efd02a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc1ca4c8d5eebeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis & Design Softwr Sys/W6_Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W6_Notes"
+            }
+          },
+          {
+            "id": "08e817b324542bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAVAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NAVAL"
+            }
+          },
+          {
+            "id": "d084dfbafa1debe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog Managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backlog Managment"
+            }
+          },
+          {
+            "id": "e00ee6c53aaf4f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Managment"
+            }
+          },
+          {
+            "id": "0b8f2d7b2d418d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automation Journal Organizing Downloads Folder on macOS with AppleScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automation Journal Organizing Downloads Folder on macOS with AppleScript"
+            }
+          },
+          {
+            "id": "d26ceabd0382e61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAMP MySQL Server Troubleshooting and Fix Log**.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAMP MySQL Server Troubleshooting and Fix Log**"
+            }
+          },
+          {
+            "id": "c758c1814b1b11e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How do we study thinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How do we study thinking"
+            }
+          },
+          {
+            "id": "aae640ea2990321e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Practice Question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Practice Question"
+            }
+          },
+          {
+            "id": "3387ac585f3184f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Storage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Storage"
+            }
+          },
+          {
+            "id": "414c4634c2b7bd20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Service Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Service Model"
+            }
+          },
+          {
+            "id": "f1152652d329cc9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Institute Scholarship Essay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Institute Scholarship Essay"
+            }
+          },
+          {
+            "id": "6c3d615c473c9257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Cloud Practioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Cloud Practioner"
+            }
+          },
+          {
+            "id": "40ae3884a005a6fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0d06962144b5e9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCP/MCP Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCP Architecture"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8008100ad399a635",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e752c2e0d45c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba8e58342a9846b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "edc07486dee2c81f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "337436796b1e4940",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9efcd57c38d051b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f24c3a709c9c880e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85ab4f921e5b28d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analysis & Design Softwr Sys/W6_Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for W6_Notes"
+            }
+          },
+          {
+            "id": "ba82cc1f38f01551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analysis & Design Softwr Sys/W6_Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from W6_Notes"
+            }
+          },
+          {
+            "id": "1583b7c5ad874ed2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50f4e133659d2674",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analysis & Design Softwr Sys/W6_Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of W6_Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d06962144b5e9cf",
+  "lastOpenFiles": [
+    "Use Case Diagram.md",
+    "Time Managment.md",
+    "Screenshot 2025-04-05 at 5.39.02 PM.png",
+    "NAVAL.md",
+    "MAMP MySQL Server Troubleshooting and Fix Log**.md",
+    "How to use ppt.md",
+    "How do we study thinking.md",
+    "How I use LLM.md",
+    "Books for ACM.md",
+    "Backlog Managment.md",
+    "Automation Journal Organizing Downloads Folder on macOS with AppleScript.md",
+    "AWS Storage.md",
+    "AWS Practice Question.md",
+    "AWS Core.md",
+    "MCP/After UV Installation.md",
+    "MCP/UV Installation & PATH Fix – Troubleshooting Journey.md",
+    "MCP/MCP Architecture.md",
+    "MCP",
+    "AI Cloud Practioner.md",
+    "Draft to Pandu.md",
+    "AWS AI /Screenshot 2025-06-01 at 8.10.35 PM.png",
+    "AWS AI /Screenshot 2025-06-01 at 8.04.38 PM.png",
+    "AWS AI /Screenshot 2025-06-01 at 7.57.50 PM.png",
+    "AWS AI ",
+    "AWS Cloud Institute Scholarship Essay.md",
+    "Cloud Service Model.md",
+    "Big Data /Assignment-2/Assign_2_50380788.pdf",
+    "Big Data /Assignment-2/~$sign_2_50380788.docx",
+    "Big Data /Assignment-2/Assign_2_50380788.docx",
+    "Big Data /Assignment-2",
+    "Big Data /Spark2_Assignment.zip",
+    "Big Data /Spark2_Assignment/~$signment1_50380788.docx",
+    "Big Data /Spark2_Assignment/Assignment1_50380788.docx",
+    "Big Data /Spark2_Assignment/shakespeare.txt",
+    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/grayscale.jpg",
+    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/chr30.4.184.jpg",
+    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/BGRA_alpha_60.png",
+    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/BGRA.png",
+    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/kittens/DP802813.jpg",
+    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/kittens/DP153539.jpg",
+    "Big Data /Apache Spark/Apache_Spark/data/artifact-tests/crc/README.md",
+    "Big Data /Apache Spark/Apache_Spark/python/README.md",
+    "Big Data /Apache Spark/Apache_Spark/README.md",
+    "Big Data /Apache Spark/apache_spark/data/artifact-tests/crc/README.md",
+    "Big Data /Apache Spark/apache_spark/README.md",
+    "Big Data /Apache Spark/apache_spark/python/README.md"
+  ]
+}
