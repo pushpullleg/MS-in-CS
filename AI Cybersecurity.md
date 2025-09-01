@@ -19,3 +19,44 @@ Monitor system for breaches, respond to security incidents,conduct risk assessme
 
 **Security Technologies involved**
 Firewall,intrusion detection system, encryption algorithm 
+
+
+IBM about AI in cybersecurtiy 
+
+https://www.youtube.com/watch?v=4QzBdeUQ0Dc
+
+AI and automation
+AI
+investrigate, identify ,report,research
+Automation → Work more efficiently
+Artificial Intelligence → Work more intelligently
+
+
+Knowledge graphs enable comprehensive threat investigation and relationship mapping
+
+Challenge:
+
+Systems generate massive volumes of log records
+Each log contains: timestamp, user, action, target system, source location
+Difficult to identify anomalous activities manually
+
+AI Solution: Pattern Recognition
+
+Uses machine learning for advanced pattern matching
+Applies time decay functions to analyze activity sequences
+Identifies outliers and anomalies across multiple records
+
+
+
+Example Attack Scenario:
+
+Privileged user logs in
+Creates new account (immediately)
+Copies entire database (immediately)
+Deletes account (immediately)
+
+Individual actions seem normal, but the sequence and timing indicate potential insider threat
+
+Automated reporting improves compliance efficiency
+AI-powered research tools enhance investigation capabilities
+The integration of AI is becoming standard across security products
