@@ -193,16 +193,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCP/MCP Architecture.md",
+                "file": "Git_Repository_Reset_Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP Architecture"
+              "title": "Git_Repository_Reset_Documentation"
+            }
+          },
+          {
+            "id": "fcec7162edb2a93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT - GPT Class Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT - GPT Class Day 1"
+            }
+          },
+          {
+            "id": "340f2293159e0cfc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
+            "id": "1deca9c8d0244950",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -341,6 +379,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -349,8 +388,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d06962144b5e9cf",
+  "active": "1deca9c8d0244950",
   "lastOpenFiles": [
+    "Automata /Screenshot 2025-08-21 at 9.43.38 PM.png",
+    "Automata /Screenshot 2025-08-18 at 11.22.18 AM.png",
+    "Automata /Screenshot 2025-08-12 at 3.56.31 PM.png",
+    "Prompt for learning GIT.md",
+    "GIT - GPT Class Day 1.md",
+    "Automata /Screenshot 2025-08-10 at 11.20.10 PM.png",
+    "Automata /Screenshot 2025-08-10 at 10.59.07 PM.png",
+    "Automata /Screenshot 2025-08-10 at 7.12.35 PM.png",
+    "Git_Repository_Reset_Documentation.md",
+    "AWS AI /AWS Storage.md",
+    "MCP/MCP Architecture.md",
     "Use Case Diagram.md",
     "Time Managment.md",
     "Screenshot 2025-04-05 at 5.39.02 PM.png",
@@ -367,7 +417,6 @@
     "AWS Core.md",
     "MCP/After UV Installation.md",
     "MCP/UV Installation & PATH Fix – Troubleshooting Journey.md",
-    "MCP/MCP Architecture.md",
     "MCP",
     "AI Cloud Practioner.md",
     "Draft to Pandu.md",
@@ -386,16 +435,6 @@
     "Big Data /Spark2_Assignment/Assignment1_50380788.docx",
     "Big Data /Spark2_Assignment/shakespeare.txt",
     "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/grayscale.jpg",
-    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/chr30.4.184.jpg",
-    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/BGRA_alpha_60.png",
-    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/multi-channel/BGRA.png",
-    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/kittens/DP802813.jpg",
-    "Big Data /Apache Spark/Apache_Spark/data/mllib/images/origin/kittens/DP153539.jpg",
-    "Big Data /Apache Spark/Apache_Spark/data/artifact-tests/crc/README.md",
-    "Big Data /Apache Spark/Apache_Spark/python/README.md",
-    "Big Data /Apache Spark/Apache_Spark/README.md",
-    "Big Data /Apache Spark/apache_spark/data/artifact-tests/crc/README.md",
-    "Big Data /Apache Spark/apache_spark/README.md",
-    "Big Data /Apache Spark/apache_spark/python/README.md"
+    "Big Data /Apache Spark/Apache_Spark/data/artifact-tests/crc/README.md"
   ]
 }
